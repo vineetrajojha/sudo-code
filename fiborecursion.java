@@ -1,7 +1,7 @@
 public class fiborecursion {
     public static void main(String[] args) {
         int x = 10; 
-        System.out.println(x);
+        System.out.println(f(x));
     }
 
     public static int f(int x) {
